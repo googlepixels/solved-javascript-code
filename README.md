@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-javascript-code
+<br>
+Write the JavaScript Code to achieve the following:1. Declare three variables—one number and two strings. The number should be 120 and the strings should be “5150” and “Two Hundred Thirty”.2. Create a new array with three numbers and two strings or words.3. Use the alert () function to display the following string, properly escaped: Steve’s response was “Cool!”.4. Create a loop statement.
